@@ -1,0 +1,27 @@
+/* LoginPage.css */
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('D:\fullstack\myapp\public/img1.png'); /* Update with your image file name */
+  background-size: cover;
+}
+
+.login-card {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: white; /* Set a background color for the card */
+  opacity: 0.9; /* Adjust the opacity as needed */
+}
+
+/* Rest of the styles remain the same */
+
+  .btn-primary {
+    margin-top: 10px;
+    margin-left: 35%;
+  }
+  
